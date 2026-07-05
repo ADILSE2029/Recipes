@@ -41,6 +41,9 @@ body{
     color: #8A4B32;
     font-weight: bold;
     transition: color 0.2s ease;
+    display: block;
+    height: 100%;
+    width: 100%;
 }
 
 
