@@ -1,0 +1,52 @@
+body{
+   box-sizing: border-box;
+   background-color: #FFF8F0;
+   margin: 0px;
+   
+   
+}
+
+.hero-section{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #4A2E20;
+    font-size: 35px;
+    background-color: #FDF6EC;
+    border-radius: 18px;
+    display: block;
+    border: 2px solid #4A2E20;
+    margin: 10px auto;
+    width: 40%;
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.15);
+    padding: 0px;
+}
+
+
+.recipes li{
+    list-style: none;
+    background-color: #eddecb;
+    border: 2px solid #4A2E20;
+    border-radius: 18px;
+    margin: 10px auto;
+    width: 20%;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+.recipes a{
+    text-decoration: none;
+    color: #8A4B32;
+    font-weight: bold;
+    transition: color 0.2s ease;
+}
+
+
+
+.recipes a:hover{
+    color: #4A2E20;
+}
+
+
